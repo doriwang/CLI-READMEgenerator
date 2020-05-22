@@ -4,6 +4,7 @@
   * ![Image badge]("https://raster.shields.io/badge/license-MIT-green.png)
   * [Project URL](https://github.com/doriwang/READMEgenerator/blob/master/README.md)
   * [Project Repo](https://github.com/doriwang/READMEgenerator)
+  * <img src="https://raster.shields.io/badge/license-MIT-blue.png">
 
 ## **Project Description**
 
