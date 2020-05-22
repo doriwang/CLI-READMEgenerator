@@ -1,7 +1,7 @@
 
 # **READMEgenerator**
 
-  * ![Image badge]("https://img.shields.io/badge/license-MIT-green)
+  * ![Image badge]("https://raster.shields.io/badge/license-MIT-green.png)
   * [Project URL](https://github.com/doriwang/READMEgenerator/blob/master/README.md)
   * [Project Repo](https://github.com/doriwang/READMEgenerator)
 
@@ -15,7 +15,7 @@
     * To run tests: npm test
     
 #### * Usage
-    Run 'node index.js' command to generate a README.md file.
+    After install dependencies, run command 'node index.js' to generate a README.md file.
 
 #### * License
     This project uses MIT license.
