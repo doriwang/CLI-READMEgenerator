@@ -2,7 +2,7 @@ function generateMarkdown(data) {
   return `
 # **${data.title}**
 
-  * [GitHub License]<img src = "https://img.shields.io/badge/license-${data.license}-${data.color}>
+  * <img src = "https://img.shields.io/badge/license-${data.license}-${data.color}>
   * [Project URL](${data.projecturl})
   * [Project Repo](https://github.com/${data.username}/${data.title})
 
@@ -15,16 +15,16 @@ function generateMarkdown(data) {
     * To install dependencies: ${data.dependencies}
     * To run tests: ${data.test}
     
-  * Usage
+#### * Usage
     ${data.usage}
 
-  * License
+#### * License
     This project uses ${data.license} license.
 
-  * Contributing
+#### * Contributing
     ${data.contributing}
 
-  * Credits
+#### * Credits
     ${data.credits}
 
 ## Questions
