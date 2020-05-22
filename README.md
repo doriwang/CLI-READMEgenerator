@@ -1,7 +1,7 @@
 
 # **READMEgenerator**
 
-  * <img src = "https://img.shields.io/badge/license-MIT-red>
+  * ![Image badge]("https://img.shields.io/badge/license-MIT-green)
   * [Project URL](https://github.com/doriwang/READMEgenerator/blob/master/README.md)
   * [Project Repo](https://github.com/doriwang/READMEgenerator)
 
@@ -10,7 +10,7 @@
   This README.md generator utilizes inquirer.prompt method to ask user's input for relevant project questions to generate a README.md file.
 
 ## **Table of Contents**
-  * Installation Commands
+#### * Installation Commands
     * To install dependencies: npm i
     * To run tests: npm test
     
@@ -27,4 +27,4 @@
     https://guides.github.com/features/mastering-markdown/
 
 ## Questions
-  If you have any questions or comments, please email dori.wyj@gmail.com
+  If you have any questions or comments, please email me at dori.wyj@gmail.com

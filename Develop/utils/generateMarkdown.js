@@ -11,7 +11,7 @@ function generateMarkdown(data) {
   ${data.description}
 
 ## **Table of Contents**
-  * Installation Commands
+#### * Installation Commands
     * To install dependencies: ${data.dependencies}
     * To run tests: ${data.test}
     
@@ -28,7 +28,7 @@ function generateMarkdown(data) {
     ${data.credits}
 
 ## Questions
-  If you have any questions or comments, please email ${data.email}
+  If you have any questions or comments, please email me at ${data.email}
 `;
 }
 
